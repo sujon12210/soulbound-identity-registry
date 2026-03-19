@@ -1,0 +1,8 @@
+{
+  "name": "soulbound-identity-registry",
+  "version": "1.0.0",
+  "description": "Non-transferable ERC-721 Soulbound Tokens",
+  "dependencies": {
+    "@openzeppelin/contracts": "^5.0.0"
+  }
+}
